@@ -52,7 +52,7 @@ print("Sorted List\n",arr1)
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/6a626cf3-4e91-4349-a8f4-61a69bdf4590)
+![image](https://github.com/user-attachments/assets/0909b14e-3d9e-4292-863a-80f70cfc4919)
 
 
 ## Result:
