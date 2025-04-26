@@ -50,9 +50,11 @@ print("Input List\n",arr1)
 quick_sort(arr1, 0, len(arr1)-1)
 print("Sorted List\n",arr1)
 
-## Output:
+```
 
-![image](https://github.com/user-attachments/assets/0909b14e-3d9e-4292-863a-80f70cfc4919)
+# Output:
+![Screenshot 2025-04-26 134839](https://github.com/user-attachments/assets/398c2fbf-0a5f-4d44-b139-734335e987f6)
+
 
 
 ## Result:
